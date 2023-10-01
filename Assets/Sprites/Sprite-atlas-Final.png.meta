@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: fd514fbbbb458bc46b09d69345af9ce9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2439738459244729835
+    second: Sprite-atlas-Final_0
+  - first:
+      213: 2539131961725360400
+    second: Sprite-atlas-Final_1
+  - first:
+      213: -298219499420808692
+    second: Sprite-atlas-Final_2
+  - first:
+      213: -7988148350672605119
+    second: Sprite-atlas-Final_3
+  - first:
+      213: 2055570754206910409
+    second: Sprite-atlas-Final_4
+  - first:
+      213: 9107085540245939509
+    second: Sprite-atlas-Final_5
+  - first:
+      213: 2407920692319129611
+    second: Sprite-atlas-Final_6
+  - first:
+      213: -3747427561889399560
+    second: Sprite-atlas-Final_7
+  - first:
+      213: -1067134809728473470
+    second: Sprite-atlas-Final_8
+  - first:
+      213: -7084646648060918125
+    second: Sprite-atlas-Final_9
+  - first:
+      213: -4184547214689007766
+    second: Sprite-atlas-Final_10
+  - first:
+      213: -2094242910984083732
+    second: Sprite-atlas-Final_11
+  - first:
+      213: 8324773324247483773
+    second: Sprite-atlas-Final_12
+  - first:
+      213: -7162460065757771979
+    second: Sprite-atlas-Final_13
+  - first:
+      213: -2470145747150415974
+    second: Sprite-atlas-Final_14
+  - first:
+      213: 5338925570698337635
+    second: Sprite-atlas-Final_15
+  - first:
+      213: 8173466696356550297
+    second: Sprite-atlas-Final_16
+  - first:
+      213: 7569225016614762613
+    second: Sprite-atlas-Final_17
+  - first:
+      213: 2181815735208557708
+    second: Sprite-atlas-Final_18
+  - first:
+      213: 7928288719778527652
+    second: Sprite-atlas-Final_19
+  - first:
+      213: -333350951403931698
+    second: Sprite-atlas-Final_20
+  - first:
+      213: -4849590022728914471
+    second: Sprite-atlas-Final_21
+  - first:
+      213: -5097299920567814251
+    second: Sprite-atlas-Final_22
+  - first:
+      213: 3064159475244666394
+    second: Sprite-atlas-Final_23
+  - first:
+      213: -2576152313043721313
+    second: Sprite-atlas-Final_24
+  - first:
+      213: 7700811631968286144
+    second: Sprite-atlas-Final_25
+  - first:
+      213: -3422670125854773651
+    second: Sprite-atlas-Final_26
+  - first:
+      213: 1201360174480537243
+    second: Sprite-atlas-Final_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 248
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 19, y: 32}
+        - {x: -32, y: -19}
+        - {x: -32, y: -32}
+        - {x: -19, y: -32}
+        - {x: 32, y: 19}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aebdf2cce442ed0800000000000000
+      internalID: -2439738459244729835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 19}
+        - {x: 19, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -19}
+        - {x: -19, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191b78f01fcc3320800000000000000
+      internalID: 2539131961725360400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20, y: 32}
+        - {x: 20, y: 31}
+        - {x: 31, y: 20}
+        - {x: 32, y: 20}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a8deff1f28cdbf0800000000000000
+      internalID: -298219499420808692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: -13}
+        - {x: 9, y: -32}
+        - {x: 27, y: -32}
+        - {x: 27, y: -13}
+        - {x: 25, y: -11}
+        - {x: 11, y: -11}
+      - - {x: 9, y: 32}
+        - {x: 9, y: 13}
+        - {x: 11, y: 11}
+        - {x: 25, y: 11}
+        - {x: 27, y: 13}
+        - {x: 27, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1407909e565642190800000000000000
+      internalID: -7988148350672605119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: -11}
+        - {x: -32, y: -19}
+        - {x: -32, y: -32}
+        - {x: -19, y: -32}
+        - {x: -3, y: -16}
+        - {x: -3, y: -13}
+        - {x: -5, y: -11}
+      - - {x: 19, y: 32}
+        - {x: 3, y: 18}
+        - {x: 3, y: 13}
+        - {x: 4, y: 11}
+        - {x: 24, y: 11}
+        - {x: 32, y: 19}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74f27c5bad68c10800000000000000
+      internalID: 2055570754206910409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535a4752c0ed26e70800000000000000
+      internalID: 9107085540245939509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -19}
+        - {x: -32, y: -32}
+        - {x: -17, y: -32}
+        - {x: 23, y: 9}
+        - {x: 32, y: 9}
+        - {x: 32, y: 27}
+        - {x: 14, y: 27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b009ef8ac17aa6120800000000000000
+      internalID: 2407920692319129611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcf218bc767efbc0800000000000000
+      internalID: -3747427561889399560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2862ea26b86c031f0800000000000000
+      internalID: -1067134809728473470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396ca2fd8674ead90800000000000000
+      internalID: -7084646648060918125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a678c9a9a708de5c0800000000000000
+      internalID: -4184547214689007766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6e9611b21cfe2e0800000000000000
+      internalID: -2094242910984083732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d754b6b5b39878370800000000000000
+      internalID: 8324773324247483773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537469eb484d99c90800000000000000
+      internalID: -7162460065757771979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 19, y: 32}
+        - {x: -27, y: -14}
+        - {x: -27, y: -32}
+        - {x: -9, y: -32}
+        - {x: -8, y: -22}
+        - {x: 32, y: 18}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9758a5c78748bdd0800000000000000
+      internalID: -2470145747150415974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 27}
+        - {x: -32, y: 9}
+        - {x: -20, y: 5}
+        - {x: 18, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -19}
+        - {x: -14, y: 27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d59bb058ca71a40800000000000000
+      internalID: 5338925570698337635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: 32}
+        - {x: 5, y: 19}
+        - {x: -32, y: -18}
+        - {x: -32, y: -32}
+        - {x: -19, y: -32}
+        - {x: 27, y: 14}
+        - {x: 27, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99651dbc7acfd6170800000000000000
+      internalID: 8173466696356550297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 19}
+        - {x: 14, y: -27}
+        - {x: 32, y: -27}
+        - {x: 32, y: -9}
+        - {x: 20, y: -6}
+        - {x: -18, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578b2549c0a4b0960800000000000000
+      internalID: 7569225016614762613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -23, y: 21}
+        - {x: -27, y: 17}
+        - {x: -27, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -19}
+        - {x: -8, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cb676f9dd574e10800000000000000
+      internalID: 2181815735208557708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9b223b590f60e60800000000000000
+      internalID: 7928288719778527652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7b70c6313bf5bf0800000000000000
+      internalID: -333350951403931698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -27}
+        - {x: 17, y: -27}
+        - {x: 21, y: -23}
+        - {x: 21, y: -8}
+        - {x: -19, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9e6fc819bc2bcb0800000000000000
+      internalID: -4849590022728914471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597bde89ab0c249b0800000000000000
+      internalID: -5097299920567814251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e0b11eec4168a20800000000000000
+      internalID: 3064159475244666394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f936abdce1baf3cd0800000000000000
+      internalID: -2576152313043721313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c57aade067ceda60800000000000000
+      internalID: 7700811631968286144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ea51597ab3080d0800000000000000
+      internalID: -3422670125854773651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-atlas-Final_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: 32}
+        - {x: 1, y: 19}
+        - {x: -27, y: 24}
+        - {x: -27, y: -20}
+        - {x: 1, y: -20}
+        - {x: 6, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96b63fa6b61ca010800000000000000
+      internalID: 1201360174480537243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
